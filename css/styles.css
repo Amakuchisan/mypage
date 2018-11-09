@@ -14,3 +14,14 @@ body{
     border: 2px solid #cccccc;
     margin: 30px auto;
 }
+
+.last{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+.last img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
