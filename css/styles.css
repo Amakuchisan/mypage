@@ -1,5 +1,16 @@
 @charset "UTF-8";
 
 body{
-    background: #B6E5F8;
+    background: #D2EFFA;
+}
+
+
+#top{
+    color: #671705;
+    background: #FFFFFF;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #cccccc;
+    margin: 30px auto;
 }
