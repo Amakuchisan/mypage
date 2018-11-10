@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    background: #D2EFFA;
+}
+
+section{
+    position: relative;
+    background: #FFFFFF;
+    color: #671705;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #cccccc;
+    margin: 30px auto;
+}
+
+/* もどるボタン */
+
+.modoru{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+.modoru img{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
