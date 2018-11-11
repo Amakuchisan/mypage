@@ -8,7 +8,7 @@ body{
 #top{
     color: #671705;
     background: #FFFFFF;
-    width: 300px;
+    width: 340px;
     padding: 10px;
     text-align: center;
     border: 2px solid #cccccc;
@@ -61,7 +61,7 @@ article{
     position: relative;
     background: #FFFFFF;
     color: #671705;
-    width: 300px;
+    width: 340px;
     padding: 10px;
     text-align: center;
     border: 2px solid #cccccc;
@@ -81,6 +81,21 @@ td{
 /* li */
 li{
     text-align: left;
+}
+
+
+/* right */
+.right{
+    position: fixed;
+    top: 0px;
+    right: 10px;
+    color: #671705;
+    background: #FFFFFF;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #cccccc;
+    margin: 30px auto 60px auto;
 }
 
 /* 上に行くボタン */
