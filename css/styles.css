@@ -4,17 +4,6 @@ body{
     background: #D2EFFA;
 }
 
-
-#top{
-    color: #671705;
-    background: #FFFFFF;
-    width: 340px;
-    padding: 10px;
-    text-align: center;
-    border: 2px solid #cccccc;
-    margin: 30px auto 60px auto;
-}
-
 /* header */
 
 header{
