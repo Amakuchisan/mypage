@@ -15,23 +15,26 @@
     position: fixed;
     top: 100px;
     color: #671705;
-    background: #FFFFFF;
-    width: 200px;
+    background: rgb(255, 255, 255, 0);
+    width: 300px;
     padding: 10px;
     text-align: center;
-    border: 2px solid #cccccc;
+    border: 2px solid rgb(204, 204, 204, 0);
     margin-left: 10px;
+}
+
+.contents li:hover{
+    padding:10px 10px;
+    font-size: 150%;
 }
 
 #talk{
     position: fixed;
     top: 420px;
     color: #671705;
-    background: #FFFFFF;
     width: 200px;
     padding: 10px;
     text-align: center;
-    border: 2px solid #cccccc;
     margin-left: 10px;
 }
 
