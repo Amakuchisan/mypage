@@ -32,10 +32,8 @@
     position: fixed;
     top: 420px;
     color: #671705;
-    width: 200px;
-    padding: 10px;
     text-align: center;
-    margin-left: 10px;
+    margin-left: 50px;
 }
 
 #clock_time{
