@@ -23,6 +23,18 @@
     margin-left: 10px;
 }
 
+#talk{
+    position: fixed;
+    top: 420px;
+    color: #671705;
+    background: #FFFFFF;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #cccccc;
+    margin-left: 10px;
+}
+
 #clock_time{
     font-size: 200%;
 }
