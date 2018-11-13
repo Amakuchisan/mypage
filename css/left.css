@@ -2,14 +2,25 @@
 #clock{
     position: fixed;
     top: 0px;
-    /* left: 10px; */
     color: #671705;
     background: #FFFFFF;
     width: 300px;
     padding: 10px;
     text-align: center;
     border: 2px solid #cccccc;
-    margin: 30px auto;
+    margin: 30px auto auto 10px;
+}
+
+.contents{
+    position: fixed;
+    top: 100px;
+    color: #671705;
+    background: #FFFFFF;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #cccccc;
+    margin-left: 10px;
 }
 
 #clock_time{

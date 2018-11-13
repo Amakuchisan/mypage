@@ -2,6 +2,7 @@
 
 body{
     background: #D2EFFA;
+    margin: auto 0px 0px 0px;
 }
 
 /* header */
@@ -90,4 +91,16 @@ li{
     position: absolute;
     right: 0;
     bottom: 0;
+}
+
+
+footer{
+    position: static;
+    /* text-align: center; */
+    background: #6e94e7;
+    color: #671705;
+}
+
+#banner{
+    text-align: right;
 }
