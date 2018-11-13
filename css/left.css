@@ -10,5 +10,8 @@
     text-align: center;
     border: 2px solid #cccccc;
     margin: 30px auto;
-    /* font-size: 200%; */
+}
+
+#clock_time{
+    font-size: 200%;
 }
