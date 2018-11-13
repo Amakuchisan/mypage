@@ -1,7 +1,6 @@
 function clock()
 {
-  // 数字が 1ケタのとき、「0」を加えて 2ケタにする
-  let twoDigit = function(num){
+    let twoDigit = function(num){
         let digit
         if( num < 10 ){
             digit = "0" + num;
@@ -9,12 +8,10 @@ function clock()
             digit = num;
         }
         return digit;
-   }
-  // 曜日を表す各文字列の配列
-  let weeks = new Array("日","月","火","水","木","金","土");
+    }
+    let weeks = new Array("日","月","火","水","木","金","土");
 
- // 現在日時を表すインスタンスを取得
-  let now = new Date();
+    let now = new Date();
 
     let year = now.getFullYear();
     let month = twoDigit(now.getMonth() + 1)
