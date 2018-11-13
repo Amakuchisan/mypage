@@ -13,13 +13,10 @@
 
 .contents{
     position: fixed;
-    top: 100px;
-    color: #671705;
-    background: rgb(255, 255, 255, 0);
+    top: 150px;
     width: 300px;
-    padding: 10px;
-    text-align: center;
-    border: 2px solid rgb(204, 204, 204, 0);
+    font-size: 20px;
+    color: #671705;
     margin-left: 10px;
 }
 

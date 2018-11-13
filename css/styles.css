@@ -5,12 +5,6 @@ body{
     margin: auto 0px 0px 0px;
 }
 
-/* header */
-
-header{
-    text-align:left;
-}
-
 /* a */
 
 a{
@@ -47,7 +41,7 @@ div.other-site a:hover{
 
 /* article */
 
-#top, article{
+.top, article{
     position: relative;
     background: #FFFFFF;
     color: #671705;
@@ -58,7 +52,7 @@ div.other-site a:hover{
     margin: 30px auto;
 }
 
-#top{
+.top{
     margin-bottom: 50px;
 }
 
@@ -69,6 +63,10 @@ table{
 }
 td{
     padding: 0.5em;
+}
+
+.flame td{
+    border: 2px solid #cccccc;
 }
 
 /* li */
@@ -100,6 +98,6 @@ footer{
     color: #671705;
 }
 
-#banner{
+.banner{
     text-align: right;
 }
