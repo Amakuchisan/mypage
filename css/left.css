@@ -1,0 +1,14 @@
+/* clock */
+#clock{
+    position: fixed;
+    top: 0px;
+    /* left: 10px; */
+    color: #671705;
+    background: #FFFFFF;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #cccccc;
+    margin: 30px auto;
+    /* font-size: 200%; */
+}
