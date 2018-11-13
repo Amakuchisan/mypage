@@ -22,7 +22,7 @@ function clock()
     let second = twoDigit(now.getSeconds());
 
 
-document.getElementById("clock_date").textContent =  "今日は" + year + "年" + month + "月" + day + "日" + week + "曜日です";
+document.getElementById("clock_date").textContent =  "今日は" + year + "年" + month + "月" + day + "日(" + week + ")です";
 document.getElementById("clock_time").textContent = hour + ":" + minute + ":" + second;
 
 }
